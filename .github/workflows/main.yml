@@ -46,7 +46,7 @@ jobs:
           aws-region: ap-south-1  # Replace with your AWS region
 
       - name: Update kubeconfig
-        run: aws eks --region ap-south-1 update-kubeconfig --name my-cluster
+        run: aws eks --region ap-south-1 update-kubeconfig --name EKS_TODO
 
       - name: Deploy to AWS EKS
         run: |
