@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: react-todo-container
-        image: ${{ secrets.DOCKERHUB_USERNAME }}/react:latest  # Replace with your Docker image
+        image: satyatulasijalandharch/react:latest  # Replace with your Docker image
         ports:
         - containerPort: 3000  # Assuming your React app listens on port 80
