@@ -1,6 +1,6 @@
 # React-Todo-list
 
-This is a React To do list app developed by me to learn and enhance my react skills.
+This is a React To do list app developed by me to learn and enhance my react skills.   
 
  
  ## Tech Stack
